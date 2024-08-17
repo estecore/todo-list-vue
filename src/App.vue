@@ -27,7 +27,7 @@ button {
 }
 
 body {
-  overflow: hidden;
+  /* overflow: hidden;  */
   font-family: Arial, Helvetica, system-ui, sans-serif;
   font-size: 1rem;
   line-height: 1.5;
