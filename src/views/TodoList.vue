@@ -74,7 +74,7 @@ export default defineComponent({
 
   .title {
     text-align: center;
-    font-size: 3rem;
+    font-size: clamp(1.5rem, 5vw, 3rem);
     font-weight: 700;
   }
 
